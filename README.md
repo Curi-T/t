@@ -18,6 +18,9 @@
 ## 6
 [音乐圣诞树](https://curi-t.github.io/t/6)
 
+## 7
+[日出到夜晚动画](https://curi-t.github.io/t/7)
+
 ## s
 跳转页面  
 [🔍 让我帮你搜索一下？Let Me Search That For You](https://curi-t.github.io/Lmstfy/)
