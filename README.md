@@ -15,6 +15,9 @@
 ## 5
 [点点旋转加载动画](https://curi-t.github.io/t/5)
 
+## 6
+[音乐圣诞树](https://curi-t.github.io/t/6)
+
 ## s
 跳转页面  
 [🔍 让我帮你搜索一下？Let Me Search That For You](https://curi-t.github.io/Lmstfy/)
