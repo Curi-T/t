@@ -21,6 +21,9 @@
 ## 7
 [日出到夜晚动画](https://curi-t.github.io/t/7)
 
+## 8
+[绘制圣诞树](https://curi-t.github.io/t/8)
+
 ## s
 跳转页面  
 [🔍 让我帮你搜索一下？Let Me Search That For You](https://curi-t.github.io/Lmstfy/)
