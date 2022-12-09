@@ -22,7 +22,7 @@
 [日出到夜晚动画](https://curi-t.github.io/t/7)
 
 ## 8
-[绘制圣诞树](https://curi-t.github.io/t/8)
+[花瓣飘零](https://curi-t.github.io/t/9)
 
 ## s
 跳转页面  
@@ -35,6 +35,5 @@
 ## yy
 [♥ 3D爱心](https://curi-t.github.io/t/yy)  
 [♥ 2D爱心](https://curi-t.github.io/t/yy/1)  
-[音乐圣诞树](https://curi-t.github.io/t/yy/christmas)  
-[绘制圣诞树](https://curi-t.github.io/t/yy/ChristmasTree)
+[音乐圣诞树](https://curi-t.github.io/t/yy/christmas)
 
