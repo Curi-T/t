@@ -34,5 +34,7 @@
 
 ## yy
 [♥ 3D爱心](https://curi-t.github.io/t/yy)  
-[♥ 2D爱心](https://curi-t.github.io/t/yy/1)
+[♥ 2D爱心](https://curi-t.github.io/t/yy/1)  
+[音乐圣诞树](https://curi-t.github.io/t/yy/christmas)  
+[绘制圣诞树](https://curi-t.github.io/t/yy/ChristmasTree)
 
