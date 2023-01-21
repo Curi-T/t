@@ -355,19 +355,16 @@ var Lunar = {
 };
 
 
-
 $(document).ready(function () {
-    
-    console.log(tt)
     var currentDate = new Date();
-    var tt = Lunar.toSolar(currentDate.getFullYear(),1,1)
+    var tt = Lunar.toSolar(currentDate.getFullYear(), 1, 1)
     var y = 0;
-    if(currentDate.getMonth()<=tt[1]&&currentDate.getDay()<tt[2]){
+    if ((currentDate.getMonth() + 1) <= tt[1] && currentDate.getDate() < tt[2]) {
         y = currentDate.getFullYear();
-    }else{
-        y = currentDate.getFullYear()+1;
+    } else {
+        y = currentDate.getFullYear() + 1;
     }
-    var futureDate = new Date(y, tt[1]-1, tt[2]);
+    var futureDate = new Date(y, tt[1] - 1, tt[2]);
     var diff = futureDate.getTime() / 1000 - currentDate.getTime() / 1000;
 
     $('.countdown_mp3').trigger('load');
@@ -386,8 +383,7 @@ $(document).ready(function () {
 
                 if (time <= 10 && time > 0) {
                     pulse();
-                }
-                else if (time <= 0) {
+                } else if (time <= 0) {
                     celebrate();
                 }
             }
