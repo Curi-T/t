@@ -22,7 +22,10 @@
 [日出到夜晚动画](https://curi-t.github.io/t/7)
 
 ## 8
-[花瓣飘零](https://curi-t.github.io/t/9)
+[花瓣飘零](https://curi-t.github.io/t/8)
+
+## 9
+[农历新年倒计时](https://curi-t.github.io/t/9)
 
 ## s
 跳转页面  
