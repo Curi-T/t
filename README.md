@@ -27,6 +27,9 @@
 ## 9
 [农历新年倒计时](https://curi-t.github.io/t/9)
 
+## 10
+[随心水墨画](https://curi-t.github.io/t/10)
+
 ## s
 跳转页面  
 [🔍 让我帮你搜索一下？Let Me Search That For You](https://curi-t.github.io/Lmstfy/)
