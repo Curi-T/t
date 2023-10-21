@@ -40,3 +40,4 @@
 
 ## chen
 [圣诞恋歌](https://curi-t.github.io/t/chen/christmas)
+[2023-10-2 国庆](https://curi-t.github.io/t/chen/nightGalaxy)
