@@ -30,6 +30,9 @@
 ## 10
 [随心水墨画](https://curi-t.github.io/t/10)
 
+## 11
+[旋转图库](https://curi-t.github.io/t/11)
+
 ## s
 跳转页面  
 [🔍 让我帮你搜索一下？Let Me Search That For You](https://curi-t.github.io/Lmstfy/)
