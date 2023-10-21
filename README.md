@@ -38,8 +38,5 @@
 [🔍 让我帮你 Google 一下？Let Me Google That For You](https://curi-t.github.io/Lmstfy/Google)   
 [🔍 有求必应？Ask and it is given](https://curi-t.github.io/Lmstfy/Bing)
 
-## yy
-[♥ 3D爱心](https://curi-t.github.io/t/yy)  
-[♥ 2D爱心](https://curi-t.github.io/t/yy/1)  
-[音乐圣诞树](https://curi-t.github.io/t/yy/christmas)
-
+## chen
+[圣诞恋歌](https://curi-t.github.io/t/chen/christmas)
